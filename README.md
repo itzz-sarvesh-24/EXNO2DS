@@ -1,4 +1,4 @@
-# EXNO2DS
+## EXNO2DS
 # AIM:
 To perform Exploratory Data Analysis on the given data set.
       
@@ -144,4 +144,5 @@ plt.show()
 <img width="707" height="596" alt="image" src="https://github.com/user-attachments/assets/6a215f49-c9dd-46f9-ab1e-55ef63db2c4b" />
 
 # RESULT:
+To perform Exploratory Data Analysis on the given data set is succesfully completed.
        
