@@ -1,11 +1,11 @@
-## EXNO2DS
-# AIM:
+# EXNO2DS
+## AIM:
 To perform Exploratory Data Analysis on the given data set.
       
-# EXPLANATION:
+## EXPLANATION:
   The primary aim with exploratory analysis is to examine the data for distribution, outliers and anomalies to direct specific testing of your hypothesis.
   
-# ALGORITHM:
+## ALGORITHM:
 STEP 1: Import the required packages to perform Data Cleansing,Removing Outliers and Exploratory Data Analysis.
 
 STEP 2: Replace the null value using any one of the method from mode,median and mean based on the dataset available.
@@ -130,7 +130,7 @@ plt.title("Correlation Heatmap - Titanic Dataset")
 plt.show()
 
 ````
-# OUTPUT:
+## OUTPUT:
 
 <img width="1223" height="696" alt="Screenshot 2026-02-23 190305" src="https://github.com/user-attachments/assets/455a8260-65fc-4f17-bf7f-ddcb32b892d2" />
 <img width="615" height="484" alt="Screenshot 2026-02-23 190318" src="https://github.com/user-attachments/assets/e6e394a2-386c-4ae1-a748-16affc0aa746" />
@@ -143,6 +143,6 @@ plt.show()
 <img width="547" height="343" alt="image" src="https://github.com/user-attachments/assets/769fdaa9-a4d3-43c5-a9fb-19c4ad08b93a" />
 <img width="707" height="596" alt="image" src="https://github.com/user-attachments/assets/6a215f49-c9dd-46f9-ab1e-55ef63db2c4b" />
 
-# RESULT:
+## RESULT:
 To perform Exploratory Data Analysis on the given data set is succesfully completed.
        
